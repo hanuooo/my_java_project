@@ -3,8 +3,8 @@ package ch01_variable_operator;
 public class Showjumsu {
     public static void main(String[] args) {
         String name = "홍길동";
-        double kor,eng ;
-        double average ;
+        double kor,eng,average ;
+
 
 
         name = "홍길동";

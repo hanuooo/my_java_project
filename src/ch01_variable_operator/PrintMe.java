@@ -2,20 +2,20 @@ package ch01_variable_operator;
 
 public class PrintMe {
     public static void main(String[] args) {
-        String name ;
-        int age ;
+        String name = "홍길동";
+        int age;
         double height ;
         double weight ;
-        String blood ;
-        char munja ;
+        String blood = "AB";
+        char munja = 'd';
         boolean bool ;
 
-        name = " 홍길동 " ;
+//        name = " 홍길동 " ;
         age = 30 ;
         height =  175.2 ;
         weight = 62.4 ;
-        blood = "AB" ;
-        munja = 'd';
+//        blood = "AB" ;
+//        munja = 'd';
         bool = false ;
 
         String message ="이름:"+name ;
