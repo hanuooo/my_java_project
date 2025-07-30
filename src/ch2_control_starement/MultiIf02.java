@@ -3,7 +3,7 @@ package ch2_control_starement;
 public class MultiIf02 {
     public static void main(String[] args) {
 
-        int age = 10;
+        int age = 70;
         double ticket = 1000.0 ;
         double discount ; // 할인율
 
